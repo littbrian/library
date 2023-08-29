@@ -1,0 +1,30 @@
+*{
+  padding: 0px;
+  margin: 0px;
+}
+body{
+  background-color: bisque;
+  padding-top: 100px;
+  max-width: 960px;
+  margin: auto;
+}
+th, td {
+    padding: 15px;
+  }
+
+  table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+  }
+
+  button{
+    margin: 5px;
+    padding: 5px;
+
+  }
+
+  input{
+    height: 20px;
+  }
+
+
